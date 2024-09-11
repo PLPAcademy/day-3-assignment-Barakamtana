@@ -140,6 +140,7 @@ D) To allow multiple users to access MySQL
 Answer:
 B) To secure your MySQL installation with a super-secret password
 
+
 How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
